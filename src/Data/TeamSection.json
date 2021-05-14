@@ -1,0 +1,27 @@
+{
+  "mainTitle": "My Education & Careers",
+  "mainComment": "Employment Period",
+  "dataList":[
+    {
+      "id":  0,
+      "dataName": "KwangWoon .Univ",
+      "message": "KwangWoon University",
+      "imagePath": "assets/images/kwangwoon.png",
+      "contentMessage": "2015.03 ~ studying (Computer Engineering)"
+    },
+    {
+      "id":  1,
+      "dataName": "NAVER .Corp",
+      "message": "NAVER Financial",
+      "imagePath": "assets/images/naver.png",
+      "contentMessage": "2021.01 ~ 2021.02 (Back-end Internship)"
+    },
+    {
+      "id":  2,
+      "dataName": "KOLON .Corp",
+      "message": "KOLON Benit",
+      "imagePath": "assets/images/kolon.png",
+      "contentMessage": "2021.04 ~ working (Java System Development Internship)"
+    }
+  ]
+}

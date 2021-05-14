@@ -1,0 +1,34 @@
+.serviceHeadTitle{
+    overflow: hidden;
+
+    font-weight: 400;
+    font-size:2.250rem;
+    color:#16293b;
+    border-left:3px solid #fddc57;
+    padding-left:15px;
+}
+
+.serviceMessage{
+    color: #797979;
+    font-size: 16px;
+    font-width: 400;
+    font-weight: 600;
+}
+
+.serviceSubTitle{
+    font-family: 'Kaushan Script', cursive;
+    color: black;
+}
+
+.listStyle{
+    list-style-type: circle;
+    padding-left: 10px;
+}
+
+.font-size-14{
+    font-size: 14px !important;
+}
+
+.m-top-15{
+    margin-top:15px;
+}

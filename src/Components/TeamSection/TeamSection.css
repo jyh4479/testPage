@@ -1,0 +1,52 @@
+.teamHeadTitle{
+    overflow: hidden;
+
+    font-weight: 400;
+    font-size:2.250rem;
+    color:#16293b;
+    border-left:3px solid #fddc57;
+    padding-left:15px;
+}
+
+.teamMessage{
+    color: #797979;
+    font-size: 16px;
+    font-width: 400;
+    font-weight: 600;
+}
+.teamSubTitle{
+    font-family: 'Kaushan Script', cursive;
+    color: black;
+}
+
+.teamContentLocation{
+    display: flex;
+}
+
+.bottomTextStyle{
+    display:inline-block;
+    max-width: 100%;
+    font-weight: bold;
+    color: #797979;
+}
+
+.teamBottomMessage{
+    width:100%;
+    border:1px dotted #FF00FF;
+}
+
+.teamImageMessage{
+    font-weight: 600;
+}
+
+.listStyle{
+    list-style-type: circle;
+}
+
+
+
+
+.testtest{
+    border-radius: 10px;
+    background-color: yellow;
+}
